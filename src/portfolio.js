@@ -25,8 +25,7 @@ const greeting = {
   subTitle: emoji(
     "A Bioinformatician 🚀 skilled in RNA-seq, molecular docking, and AI-driven modeling, automating pipelines and integrating multi-omics data for biomedical research."
   ),
-  resumeLink:
-    "https://drive.google.com/file/d/1ofFdKF_mqscH8WvXkSObnVvC9kK7Ldlu/view?usp=sharing", // Set to empty to hide the button
+ resumeLink: "/resume.pdf", // Set to empty to hide the button
   displayGreeting: true // Set false to hide this section, defaults to true
 };
 
