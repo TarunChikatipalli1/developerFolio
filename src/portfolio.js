@@ -20,7 +20,7 @@ const illustration = {
 };
 
 const greeting = {
-  username: "Tarun Chikatipalli 123",
+  username: "Tarun Chikatipalli",
   title: "Hi all, I'm Tarun",
   subTitle: emoji(
     "A Bioinformatician 🚀 skilled in RNA-seq, molecular docking, and AI-driven modeling, automating pipelines and integrating multi-omics data for biomedical research."
